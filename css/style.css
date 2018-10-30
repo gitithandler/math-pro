@@ -1,0 +1,93 @@
+/*  titles  */
+
+h1 {
+    direction: rtl;
+    float: right;
+}
+
+/*  reusable componants  */
+
+.generalTitle {
+    padding: 20px 90px 20px 20px;
+    margin: 10px;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.layoutSpace {
+    padding: 110px 0 70px 0;
+}
+
+.centerPage {
+    padding: 80px 0 150px 0;
+    background-color: #f0f0f0;
+}
+
+.goBack {
+    float: right;
+    margin-top: 30px;
+}
+
+
+/*  home page  */
+
+.signin {
+    margin-left: 80px;
+}
+
+.mainBar {
+    padding: 20px 0 30px 0;
+}
+
+/*  form  */
+
+.formSign form {
+    direction: rtl;
+}
+
+label {
+    float: right;
+}
+
+.btnForm {
+    padding-top: 20px;
+    margin-left: 190px;
+}
+
+/*  private page  */
+
+.kidSignupBtn {
+    margin-left: 80px;
+}
+
+/*  add kids page  */
+
+.addKidsTitle {
+    margin: 10px;
+    padding: 0 20px 10px 0;
+}
+
+.addKidBtn {
+    padding-top: 20px;
+    margin-left: 110px;
+}
+
+/*  kids list to test  */
+
+.kidsSelection {
+    direction: rtl;
+}
+
+.dropdown {
+    padding-bottom: 10px;
+}
+
+.choice {
+    padding-top: 5px;
+}
+
+
+
